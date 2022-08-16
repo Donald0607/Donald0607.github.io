@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom right ,rgb(255, 255, 255), rgb(11, 239, 235));
+    text-align: center;
+    
+}
+h2{
+    font-style: Bold;
+    font-family: fantasy;
+}
+p{
+    color: red;
+}
+
+.changeright
+{
+   position: relative;
+   right: 30%;
+}
+
+.banner
+{
+    width: 700px;
+    height: 350px;  
+}
+.changeleft
+{
+    position: relative;
+   left: 30%;
+}
